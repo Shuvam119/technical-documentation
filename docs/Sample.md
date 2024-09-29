@@ -22,4 +22,7 @@
 ```
 ??? info "Lorem Ipsum"
     Lorem impsum dolor Lorem impsum dolor  Lorem impsum dolor 
-    Lorem impsum dolor Lorem impsum dolor 
+    Lorem impsum dolor Lorem impsum dolor
+
+!!! note "Title"
+    Lorem ipsum dolor
