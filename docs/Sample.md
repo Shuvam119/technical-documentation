@@ -26,3 +26,5 @@
 
 !!! note "Title"
     Lorem ipsum dolor
+
+Lorem ipsum, lorem ipsum dolor
