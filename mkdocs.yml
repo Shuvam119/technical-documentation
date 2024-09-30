@@ -1,5 +1,14 @@
 site_name: My Documentation Portal
 site_url: https://sitename.example
+nav:
+  - Importance of Technical Documentation: index.md
+  - Workflow of Technical Writing: process-of-writing-tech-doc.md
+  - Static Sites: static-sites.md
+  - Code Examples: Code-Examples.md
+  - Content Tabs: Content-Tabs.md
+  - Install Python for Windows: Sample.md
+  - Admonitions Example: Admonitions.md
+
 theme:
   name: material
   font:

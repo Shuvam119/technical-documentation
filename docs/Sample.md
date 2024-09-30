@@ -20,6 +20,7 @@
    ```bash
    python --version
 ```
+
 ??? info "Lorem Ipsum"
     Lorem impsum dolor Lorem impsum dolor  Lorem impsum dolor 
     Lorem impsum dolor Lorem impsum dolor
@@ -28,6 +29,4 @@
     Lorem ipsum dolor
 
 Lorem ipsum, lorem ipsum dolor
-
-# Test
 
